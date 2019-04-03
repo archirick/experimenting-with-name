@@ -1,0 +1,5 @@
+name=input("Enter your name : ")
+print(name.find("n"))
+print(name.replace("n","p"))
+print(name.split())
+print(name.strip())

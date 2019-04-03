@@ -1,0 +1,6 @@
+n=input("Enter the first name of user : ")
+m=input("Enter the last name of user : ")
+print("The full name of user")
+print(n+" "+m)
+print("The reverse name is :")
+print(m+" "+n)
